@@ -1,15 +1,32 @@
-<img width="335" height="343" alt="image" src="https://github.com/user-attachments/assets/cf27f940-bebd-40bb-93f6-acfe58090b36" /><br>
+### Formulas
+<img width="261" height="97" alt="image" src="https://github.com/user-attachments/assets/93996460-dbf4-44a5-844c-8f864831eff5" />
 
-<img width="484" height="80" alt="image" src="https://github.com/user-attachments/assets/8347ad54-872a-4170-b5cf-b00c0e68a87a" />
+### Derivation
+
+<img width="359" height="330" alt="image" src="https://github.com/user-attachments/assets/f3ed1777-889a-4eae-b6c6-c5e5d75c3c6f" /><br>
+
+<img width="488" height="86" alt="image" src="https://github.com/user-attachments/assets/d0b01366-dbb4-4cc2-b329-c837d5d572f6" />
 
 and
 
-<img width="296" height="61" alt="image" src="https://github.com/user-attachments/assets/540a2bf5-f1de-4e0d-833f-8b95ce8497d7" />  
+<img width="304" height="57" alt="image" src="https://github.com/user-attachments/assets/e4f0d247-35b2-44dc-886e-6e73d353691f" />
 
-By solving the system of equations, you can get the formula as follows.  
+By solving the system of equations, you can derive the formula as follows.  
 
-<img width="264" height="31" alt="image" src="https://github.com/user-attachments/assets/a78920f4-d368-4f20-aeb4-ceac2abbb9aa" />
+<img width="264" height="30" alt="image" src="https://github.com/user-attachments/assets/84a761b9-f181-4245-8b40-5d154ace3724" />
 
-By applying this formula, you can also derive other equations.
+By applying this formula, you can derive other equations.
 
-<img width="309" height="47" alt="image" src="https://github.com/user-attachments/assets/1777b855-baf7-4c62-ab96-608293c0947b" />
+<img width="305" height="56" alt="image" src="https://github.com/user-attachments/assets/630810f1-2a04-4eb6-b816-7220858caff4" />
+
+Also, from the relations between sine and cosine,
+
+<img width="162" height="78" alt="image" src="https://github.com/user-attachments/assets/31b65380-08bb-4583-964a-c489865087ba" />
+
+you can derive following formula.
+
+<img width="370" height="79" alt="image" src="https://github.com/user-attachments/assets/c8f740a8-2c77-4073-8bbf-e0986d69e404" /><br>
+
+Final formula can be derived as follows.
+
+<img width="296" height="53" alt="image" src="https://github.com/user-attachments/assets/a044f40f-5766-4d48-a3f0-eadf4637e7bf" />

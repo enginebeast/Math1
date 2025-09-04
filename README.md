@@ -1,3 +1,5 @@
+< [Main Page](https://enginebeast.github.io/) < [Math note](https://enginebeast.github.io/math)
+
 ### Formulas
 <img width="261" height="97" alt="image" src="https://github.com/user-attachments/assets/93996460-dbf4-44a5-844c-8f864831eff5" />
 
